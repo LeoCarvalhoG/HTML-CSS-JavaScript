@@ -1,0 +1,75 @@
+/*Estilos da página Leonardo Carvalho.html*/
+
+    body {
+    background-color: rgb(31, 48, 65);
+ 
+    }
+
+    .center {
+
+        text-align: center;
+    }
+
+    .container {
+
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .justify {
+        text-align: justify;
+    }
+
+    #Menu li {
+        display: inline;
+        padding: 50px;
+       color: steelblue;
+    }
+    
+    #Menu li a {
+        text-decoration: none;
+        color: steelblue;
+        font-size: 50px;
+
+    }
+
+    #Menu li a:hover {
+        color: steelblue;
+    }
+
+    .p-30 {
+
+        padding: 30px;
+
+    }
+
+    .br-50 {
+        border-radius: 50%;
+    }
+
+    .wh-300 {
+
+        width: 500px;
+        height: 300px;
+
+    }
+    
+    .tm-social {
+
+        width: 50px;
+        height: 50px;
+
+    }
+
+    .mb-50 {
+        margin-bottom: 50px;
+    }
+  
+    /*Estilos da página Contato.html*/
+
+    .ml-50 {
+        margin-left: 50px;
+    }
+
